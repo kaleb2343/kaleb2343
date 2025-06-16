@@ -2,7 +2,7 @@
 
 I’m a developer building scalable websites 🌐   
  
-I also work in:  
+I also work in:   
 🎨 Graphic design
 📈 Digital marketing.
   
