@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Kaleb
-I’m a developer building scalable websites 🌐<br><br>I also work in:<br>🎨 Graphic design 📈 Digital marketing.<br><br>📫 Feel free to reach out:kalebdawit2343@gmail.com<br><br>LinkedIn:🔗 (www.linkedin.com/in/kaleb-dawit-678b26278)
+I’m a developer building scalable websites 🌐<br><br>I also work in:<br>🎨 Graphic design 
+ and 📈 Digital marketing.<br><br>📫 Feel free to reach out:kalebdawit2343@gmail.com<br><br>LinkedIn:🔗 (www.linkedin.com/in/kaleb-dawit-678b26278)
 
 
 ## 🌐 Socials:
