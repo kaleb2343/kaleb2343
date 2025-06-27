@@ -1,6 +1,5 @@
 👋 Hi, I’m Kaleb<br><br>I’m a developer building scalable websites 🌐<br>I’m also interested in graphic design and digital marketing.<br><br>🌐 Website: kalebdawit.vercel.app<br>📫 Feel free to reach out: kalebdawit2343@gmail.com<br>LinkedIn: 🔗 (www.linkedin.com/in/kaleb-dawit-678b26278)<br><br>
 
-
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-kalebdawit.vercel.app-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://kalebdawit.vercel.app/)
 
