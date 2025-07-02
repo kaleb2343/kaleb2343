@@ -1,4 +1,4 @@
-👋 Hi, I’m Kaleb<br><br>I’m a developer building scalable websites 🌐<br>I’m also interested in graphic design and digital marketing.<br>
+ 👋 Hi, I’m Kaleb<br><br>I’m a developer building scalable websites 🌐<br>I’m also interested in graphic design and digital marketing.<br>
 
 
 ## 🌐 Socials:
